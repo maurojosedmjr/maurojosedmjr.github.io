@@ -12,5 +12,6 @@ Dev BackEnd
 - Oracle Apex
 - ShellScript
 
-[Linkedin](https://www.linkedin.com/in/mauro-martins-jr/)
-[Email](mauro@mmartins.dev.br)
+[Linkedin](https://www.linkedin.com/in/mauro-martins-jr/){:target="_blank"}
+
+[Email](mailto:mauro@mmartins.dev.br)
