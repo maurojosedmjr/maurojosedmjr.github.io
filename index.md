@@ -12,6 +12,5 @@ Dev BackEnd
 - Oracle Apex
 - ShellScript
 
-:bowtie: [Linkedin](https://www.linkedin.com/in/mauro-martins-jr/)
-
-:e-mail: [Email](mauro@mmartins.dev.br)
+[Linkedin](https://www.linkedin.com/in/mauro-martins-jr/)
+[Email](mauro@mmartins.dev.br)
