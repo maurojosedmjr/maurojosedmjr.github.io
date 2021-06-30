@@ -16,6 +16,6 @@ Dev BackEnd
 
 
 
-[![Mauro Martins Jr](https://image.flaticon.com/icons/png/16/38/38669.png "Linkedin")](https://www.linkedin.com/in/mauro-martins-jr/){:target="_blank"}
+[![Mauro Martins Jr](https://image.flaticon.com/icons/png/32/174/174857.png "Linkedin")](https://www.linkedin.com/in/mauro-martins-jr/){:target="_blank"}
 
 [Email](mailto:mauro@mmartins.dev.br)
