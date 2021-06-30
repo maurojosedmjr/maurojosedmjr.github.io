@@ -1,15 +1,18 @@
+**Líder Técnico e desenvolvedor BackEnd**
+
 ## Tecnologias
 - Python
 - Flask
 - FastAPI
 - Pandas
 - MongoDB
-- Postgres
+- PostgreSQL
 - Oracle
-- PL/SQL
 - Oracle Apex
+- PL/SQL
 - ShellScript
 - BeautifulSoup
+- Docker
 
 
 ### Links
